@@ -35,4 +35,4 @@ python3 extract_color.py
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](file:///Users/aditya/Projects/Color%20picker/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
